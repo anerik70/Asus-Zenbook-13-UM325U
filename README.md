@@ -1,6 +1,7 @@
 # Asus Zenbook 13 (UX325UM - UM325U)
 ![asus-zenbook-14_um325ua-kg189w_06](https://github.com/anerik70/Asus-Zenbook-13-UM325U/assets/5209138/6566b8de-25c6-4ec8-b32f-beb3cf952c54)
-![Ryzentosh UX325U - UM325U](https://github.com/anerik70/Asus-Zenbook-13-UM325U/assets/5209138/b950c14e-583e-4843-9225-a2bf4789815a)
+<img width="601" alt="15" src="https://github.com/user-attachments/assets/25a256ac-8ecd-4130-b0a6-625c7e007ec8">
+
 
 
 # SYSTEM
